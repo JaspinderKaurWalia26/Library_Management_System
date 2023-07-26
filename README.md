@@ -21,8 +21,10 @@ Go to terminal and change the directory by using command -cd frappe-bench
  Command- bench new-app library_management
 
  After implementing this command you will be prompted with the details of your app and app named library_management will be created in the apps folder.
+ 
+ 
 
-##   Create A Site
+##  Create A Site
  Command- bench new-site library.test
  
 
