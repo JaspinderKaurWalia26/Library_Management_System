@@ -22,13 +22,13 @@ Go to terminal and change the directory by using command -cd frappe-bench
 
  After implementing this command you will be prompted with the details of your app and app named library_management will be created in the apps folder.
 
- ##  Create A Site 
+##  Create A Site 
  Command- bench new-site library.test
 
- ##  Install App On Site
+##  Install App On Site
  Command - bench --site library.test install-app library_management
 
- ##  Create A Doctype 
+##  Create A Doctype 
  Before we create doctype, we need to enable developer mode on our bench .
  
  For that follow command - bench set-config -g developer_mode true
