@@ -17,7 +17,7 @@ The Librarian will log in to an interface known as Desk.The Desk provides many s
 
 Go to terminal and change the directory by using command -cd frappe-bench
 
-## Create An App 
+##  Create An App 
  Command- bench new-app library_management
 
  After implementing this command you will be prompted with the details of your app and app named library_management will be created in the apps folder.
